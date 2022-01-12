@@ -1,7 +1,6 @@
 ### Hi ! 👋 I'm Srikanth
 
 - I am a Developer, Gamer, Guitarist!
-- Love having conversations over a cup of coffee.
 
 ## Skills
 
