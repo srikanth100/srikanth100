@@ -1,6 +1,6 @@
 ### Hi ! I'm Srikanth 👋
 
-- I am a Developer, Gamer, Guitarist!
+- I am passionate about software development, building distributed systems and scalable web applications, I like to game and play the guitar in my free time! 
 
 ## Skills
 
